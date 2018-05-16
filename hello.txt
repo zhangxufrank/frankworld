@@ -1,1 +1,3 @@
 Commit Message是提交版本的注释，必须填写。
+我们打开test.txt再输入一些文字后保存，发现test.txt变为红色的Modified状态，再commit。
+
